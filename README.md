@@ -4,7 +4,7 @@
 What does this repo do? What types of technology does it use? What type of repo: front, back, server? Is there a simple diagram that can help link my thinking back to the main CDL stack?
 
 ### Table of Contents
-- What's inside with quick hyper linking.
+- What's inside with quick hyperlinking.
 
 ### Getting Started
 As a dev wishing to contribute, these are the steps I would take:
@@ -23,5 +23,5 @@ These are the modifications I would make based on my < type of - front, back, se
 ### Style Guidelines
 Pushes, Draft/Standard PRs, Merges, File Naming
 
-### Check Wiki Page for More Information
-Hyper link to wiki; wiki will have information on style and authors/contributors
+### Check Notion Page for More Information
+Hyperlink to Notion; Notion will have information on style and authors/contributors
