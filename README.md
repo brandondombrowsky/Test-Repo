@@ -33,7 +33,7 @@ To add to this codebase, you will need to configure < what? >.
 The following specifications will need to be followed for this specific repository < what? >.
 
 ### Contribution Guidelines
-CodeDay has a dedicated Notion page with more information about adding or changing our open source software. Visit [our contribution guidelines here](https://www.notion.so/codeday/Contribution-Guidelines-draft-04e4cac2f72744b7b84e1e1a68c55f4e) to learn more.
+CodeDay has a dedicated Notion page with more information about adding or changing our open source software. Visit our [Contribution Guidelines](https://www.notion.so/codeday/Contribution-Guidelines-draft-04e4cac2f72744b7b84e1e1a68c55f4e) page to learn more.
 
 ### Style Guidelines
 The way a page is displayed–the color schemes, content layout, and dimensions–are governed by [_topo_](https://topo.codeday.org/), CodeDay’s design primary design software. Powered by [Chakra UI](https://chakra-ui.com/), _topo_ ensures whatever web browser is used will properly display CodeDay’s content to user.
