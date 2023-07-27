@@ -23,11 +23,26 @@ The following mind map illustrates how data flows from `www-clear` through `gql-
 ### Getting Started
 To get started working with `www-clear`, you will first need to clone the repository to your local machine. Then you will want to follow the [Contribution Guidelines](< link to bullet, not Notion >).
 
-### Installation 
-You will need to install < what? >.
+1. Run `nvm install` at the commandline
+2. Run `npm yarn` at the commandline
+3. Run `run yarn` at the commandline
+4. Set environmental variables:
+- `clientId: process.env.AUTH0_CLIENT_ID`
+- `clientSecret: process.env.AUTH0_CLIENT_SECRET`
+- `domain: process.env.AUTH0_DOMAIN`
+- `issuer: `https://` + process.env.AUTH0_DOMAIN`
+- `employee: process.env.AUTH0_EMPLOYEE_ROLE`
+- `admin: process.env.AUTH0_ADMIN_ROLE`
+- `manager: process.env.AUTH0_MANAGER_ROLE`
+- `volunteer: process.env.AUTH0_VOLUNTEER_ROLE`
+- `secret: process.env.GQL_SECRET`
+- `accountSecret: process.env.GQL_ACCOUNT_SECRET`
+- `audience: process.env.GQL_AUDIENCE`
+- `appUrl: process.env.APP_URL`
+5. Run `yarn dev` at the commandline
 
-### Configuration
-To add to this codebase, you will need to configure < what? >.
+#### Reporting A Bug
+< something here >
 
 ### Additional Technical Specs
 The following specifications will need to be followed for this specific repository < what? >.
@@ -43,3 +58,4 @@ As we work with so many volunteers and up-and-coming developers, we have a stand
 
 ### Additional Documentation
 Check our our [Notion **Fungineering**](https://www.notion.so/codeday/Fungineering-dfc6f9bea0fd43849c9a31bd94a64d17) page for more information.
+
