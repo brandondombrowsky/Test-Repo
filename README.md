@@ -5,7 +5,7 @@ CodeDay’s event management backend for volunteers is located within the [**www
 
 [![clear.png](https://i.postimg.cc/P5vwxx0W/clear.png)](https://postimg.cc/QFstYX8C)
 
-At `www-clear`, volunteers are able to mange events, see participant registration, manage ticket pricing, view event status, see a list of sponsors, edit notifications, and view related projects. Engineered with Next.js and React, this repo also incorporates design rules and display requirements defined within `topo` (defined below).
+At `www-clear`, volunteers are able to mange events, see participant registration, manage ticket pricing, view event status, see a list of sponsors, edit notifications, and view related projects. Engineered with Next.js and React, this repo also incorporates design rules and display requirements defined within `topo` (see below).
 
 The following mind map illustrates how data flows from `www-clear` through `gql-server` to the `gql-clear` server and back to the user:
 
