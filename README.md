@@ -9,7 +9,7 @@ At `www-clear`, volunteers are able to mange events, see participant registratio
 
 The following mind map illustrates how data flows from `www-clear` through `gql-server` to the `gql-clear` server and back to the user:
 
-[![clear-Mind-Map.png](https://i.postimg.cc/25Qsj7ZY/clear-Mind-Map.png)](https://postimg.cc/XZvHQFL1)
+[![clear-Mind-Map.png](https://i.postimg.cc/L6dgnRBL/clear-Mind-Map.png)](https://postimg.cc/BtgnVrzn)
 
 ### Contents
 - [Getting Started]()
