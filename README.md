@@ -13,8 +13,7 @@ The following mind map illustrates how data flows from `www-clear` through `gql-
 
 ### Contents
 - [Getting Started]()
-- [Installation]() 
-- [Configuration]() 
+- [Reporting A Bug]() 
 - [Additional Technical Specs]() 
 - [Contribution Guidelines]() 
 - [Style Guidelines]() 
@@ -41,7 +40,7 @@ To get started working with `www-clear`, you will first need to clone the reposi
 - `appUrl: process.env.APP_URL`
 5. Run `yarn dev` at the commandline
 
-#### Reporting A Bug
+### Reporting A Bug
 < something here >
 
 ### Additional Technical Specs
