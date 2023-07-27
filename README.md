@@ -50,7 +50,7 @@ The following specifications will need to be followed for this specific reposito
 CodeDay has a dedicated Notion page with more information about adding or changing our open source software. Visit our [Contribution Guidelines](https://www.notion.so/codeday/Contribution-Guidelines-draft-04e4cac2f72744b7b84e1e1a68c55f4e) page to learn more.
 
 ### Style Guidelines
-The way a page is displayed–the color schemes, content layout, and dimensions–are governed by [_topo_](https://topo.codeday.org/), CodeDay’s design primary design software. Powered by [Chakra UI](https://chakra-ui.com/), `topo` ensures whatever web browser is used will properly display CodeDay’s content to user.
+The way a page is displayed–the color schemes, content layout, and dimensions–are governed by [_topo_](https://topo.codeday.org/), CodeDay’s primary design software (powered by [Chakra UI](https://chakra-ui.com/, `topo`, ensures whatever web browser is used will properly display CodeDay content to user.
 
 #### Standardized Workflow for Contribtions
 As we work with so many volunteers and up-and-coming developers, we have a standardized way to submit pushes, pull requests, merges, and file naming to keep work consistent. Visit our [Formatting Submissions](https://www.notion.so/codeday/Formatting-Submissions-draft-04e4cac2f72744b7b84e1e1a68c55f4e) page to learn more about how to submit your work to CodeDay reviewers.
