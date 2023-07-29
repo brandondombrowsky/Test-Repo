@@ -3,7 +3,7 @@
 ## Introduction
 CodeDay’s event management backend for volunteers is located within the [**www-clear**](https://github.com/codeday/www-clear) repository. As indicated by the prefix `www-`, this repo has a frontend facing UI:
 
-[![clear-Mind-Map.png](https://i.postimg.cc/7ZqPBjgf/clear-Mind-Map.png)](https://postimg.cc/3dbHNSfT)
+[![clear.png](https://i.postimg.cc/B6PNdYxK/clear.png)](https://postimg.cc/njZvm1SF)
 
 At `www-clear`, volunteers are able to mange events, see participant registration, manage ticket pricing, view event status, see a list of sponsors, edit notifications, and view related projects. Engineered with Next.js and React, this repo also incorporates design rules and display requirements defined within `topo` (see below).
 
