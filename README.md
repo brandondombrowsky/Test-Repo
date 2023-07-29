@@ -26,18 +26,18 @@ To get started working with `www-clear`, you will first need to clone the reposi
 2. Run `npm yarn` at the commandline
 3. Run `run yarn` at the commandline
 4. Set environmental variables:
-- `clientId: process.env.AUTH0_CLIENT_ID`
-- `clientSecret: process.env.AUTH0_CLIENT_SECRET`
-- `domain: process.env.AUTH0_DOMAIN`
-- `issuer: `https://` + process.env.AUTH0_DOMAIN`
-- `employee: process.env.AUTH0_EMPLOYEE_ROLE`
-- `admin: process.env.AUTH0_ADMIN_ROLE`
-- `manager: process.env.AUTH0_MANAGER_ROLE`
-- `volunteer: process.env.AUTH0_VOLUNTEER_ROLE`
-- `secret: process.env.GQL_SECRET`
-- `accountSecret: process.env.GQL_ACCOUNT_SECRET`
-- `audience: process.env.GQL_AUDIENCE`
-- `appUrl: process.env.APP_URL`
+- `AUTH0_CLIENT_ID=["something here"]`
+- `AUTH0_CLIENT_SECRET=["something here"]`
+- `AUTH0_DOMAIN=["something here"]`
+- `AUTH0_DOMAIN=["something here"]`
+- `AUTH0_EMPLOYEE_ROLE=["something here"]`
+- `AUTH0_ADMIN_ROLE=["something here"]`
+- `AUTH0_MANAGER_ROLE=["something here"]`
+- `AUTH0_VOLUNTEER_ROLE=["something here"]`
+- `GQL_SECRET=["something here"]`
+- `GQL_ACCOUNT_SECRET=["something here"]`
+- `GQL_AUDIENCE=["something here"]`
+- `APP_URL=["something here"]`
 5. Run `yarn dev` at the commandline
 
 ### Reporting A Bug
